@@ -1,5 +1,4 @@
 <div align="center">
-<img src="./assets/code-terminal.gif" width="100%" alt="Terminal futurista animado do Anonymous Chatbot">
 <h1>🔐 Anonymous Chatbot</h1>
 <h3>Privacidade por design. Responsabilidade por princípio.</h3>
 <p>Chatbot de IA com cadastro anônimo, autenticação por código e histórico protegido.</p>
